@@ -33,18 +33,13 @@ color:slategray;
             como el software (programas e instrucciones) permitiendo así la comunicación entre el usuario y el ordenador. 
             En definitiva controlan el ordenador, el teléfono móvil o la tableta y nos permite comunicarnos con ellos de forma sencilla.</h2>
     </body>
-<body1>
-<h1>______________________________________________________________________________________</h1>
-</body1>
     <body2>
         <h1>-Sistemas operativos para móviles-</h1>
         <h2>Los sistemas operativos usados para los teléfonos móviles, celulares o smartphone son muchos,
              pero hay 2 que son los principales y que ocupan casi todo el mercado de la telefonía móvil: Android e iOS. 
             Seguidos pero con mucha diferencia estarían Symbian, Blackberry OS y Windows Phone.</h2>
     </body2>
-<body1>
-<h1>______________________________________________________________________________________</h1>
-</body1>
+
 <body3>
     <h1>-Plataformas de software móvil-</h1>
     <h2>Actualmente existen dos plataformas en los
@@ -66,9 +61,7 @@ color:slategray;
                 cerrada más usado es iOS desarrollado por Apple Inc., es de uso exclusivo para dispositivos
                 Apple.</h3>
         </body4>
-<body1>
-<h1>______________________________________________________________________________________</h1>
-</body1>
+
         <body5>
 <h1>-Android OS – Google Inc.-</h1>
 <h2>Es el sistema operativo líder en la actualidad en el mercado de los sistemas operativos de teléfonos
@@ -77,8 +70,7 @@ color:slategray;
     Pero más tarde, Google adoptó “Android” como título para su
     actualización regular de nuevas versiones que salen.</h2>
         </body5>
-<body1>
-<h1>______________________________________________________________________________________</h1>
+
 </body1>
         <body6>
 <h1>-iOS – Apple Inc.-</h1>
@@ -87,9 +79,7 @@ color:slategray;
     y iPod, etc. Está programado en C, C ++, Objective-C, Swift & se lanzó
     en julio de 2007.</h2>
         </body6>
-<body1>
-<h1>______________________________________________________________________________________</h1>
-</body1>
+
 <body7>
     <h1>-Windows Phone – Microsoft Corporation-</h1>
     <h2>Este sistema es desarrollado por Microsoft, Nokia había detenido el desarrollo del sistema operativo
