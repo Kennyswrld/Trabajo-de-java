@@ -90,7 +90,9 @@ color:slategray;
             la mayoría de los usuarios lo encuentran un poco complicado y
             más compacto para operarlo.</h2>
 </body7>
-
+<body8>
+    <a href="https://kennyswrld.github.io/Trabajos-de-java/">Haz click aqui para regresar al inicio</a>
+    </body8>
 </html>
     
 
