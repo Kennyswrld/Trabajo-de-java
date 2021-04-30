@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <br>    
 <head>
@@ -102,7 +102,7 @@ color:slategray;
             la mayoría de los usuarios lo encuentran un poco complicado y
             más compacto para operarlo.</h2>
 </body7>
-</head>
+
 </html>
     
 
