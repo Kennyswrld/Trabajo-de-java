@@ -14,7 +14,6 @@
         text-align: left;
         background-color: lightgray;
     }
-    body1{
 color:slategray;
     }
     body4{
