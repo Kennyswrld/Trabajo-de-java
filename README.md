@@ -70,7 +70,6 @@ color:slategray;
     actualización regular de nuevas versiones que salen.</h2>
         </body5>
 
-</body1>
         <body6>
 <h1>-iOS – Apple Inc.-</h1>
 <h2>Es uno de los sistemas operativos para dispositivos móviles
